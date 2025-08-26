@@ -18,13 +18,6 @@ Currently focusing on **Computer Vision (DeepStream, PyTorch, OpenCV)** and **sc
 
 ---
 
-## 📊 GitHub Stats  
-
-![Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aWahabMalik&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aWahabMalik&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect With Me  
 
 💼 [LinkedIn](https://www.linkedin.com/in/abdul-wahab-malik-071007217/)  
