@@ -4,6 +4,8 @@
 
 Based in Lahore, Pakistan — building production-grade systems at the intersection of AI, backend engineering, and enterprise automation.
 
+> **Currently working on:** PTZCTL — a control system that exposes an API layer to control PTZ cameras (both local and public/network cameras), with a desktop app for camera control.
+
 ---
 
 ## About Me
@@ -26,6 +28,7 @@ I'm a Software Engineer with hands-on experience across two complementary domain
 | **Streaming & Media** | RTSP/HLS systems, FFmpeg pipelines, real-time video relay architecture |
 | **Enterprise Integrations** | Salesforce, NIPR, UKG, Microsoft Entra ID, third-party licensing APIs |
 | **Backend Engineering** | REST APIs, microservices, async systems, data pipelines, workflow orchestration |
+| **API Protocols & Integration Patterns** | REST APIs, SOAP APIs, WebSockets, Webhooks, real-time bidirectional control APIs |
 | **Automation & Pipelines** | License verification, data sync, validation workflows, scheduled processing |
 
 ---
@@ -40,6 +43,9 @@ PyTorch · DeepStream SDK · ONNX Runtime · OpenCV · HuggingFace Transformers 
 
 **Backend & Databases**
 PostgreSQL · Redis · Celery · SQLAlchemy · REST API design
+
+**APIs & Real-Time Communication**
+REST API · SOAP API · WebSockets · Webhooks
 
 **Cloud & Infrastructure**
 Docker · AWS (EC2, S3, Lambda) · Google Cloud Storage · Kubernetes (basics) · Terraform (basics)
@@ -57,6 +63,7 @@ Temporal.io · PM2 · Linux · Git · GitLab CI · Sentry · OpenTelemetry
 
 ## What I'm Working On
 
+- **PTZCTL** — a control system providing an API to control PTZ cameras (local and public/networked), operated through a desktop app
 - DeepStream SDK — custom inference pipelines and Python bindings
 - GPU optimization: quantization, TensorRT, ONNX conversion
 - Distributed system patterns with Temporal.io workflows
